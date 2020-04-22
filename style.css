@@ -1,0 +1,52 @@
+body {
+  font-family: Basis Grotesque Medium, Verdana, Georgia;
+  background-color: #dbe9ee;
+  width: 900px;
+  max-width: 90%;
+  line-height: 150%;
+  margin: 0 auto;
+  padding: 3vh 0vw 3vh 0vw;
+}
+
+#title {
+  text-align: center;
+}
+
+#subtitle {
+  font-family: Basis Grotesque Medium;
+  text-align: center;
+}
+
+#img-div {
+  width: 40vw;
+  margin: 0 auto;
+  background-color: white;
+  padding: 8% 8% 5% 8%;
+  margin-bottom: 5vh;
+}
+
+#image {
+  max-width: 100%;
+  object-fit: cover;
+}
+
+#img-caption {
+   margin: 0 auto;
+  text-align: center;
+}
+
+footer,
+#quote,
+#timeline {
+  text-align: center;
+}
+
+#tribute-info {
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+ul {
+  margin: 0 auto;
+  text-overflow: wrap;
+}
